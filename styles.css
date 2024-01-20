@@ -1,1 +1,12 @@
 /* your code */
+table{
+	border:2px solid black;
+	border-radius:10px;
+}
+th{
+	background:#629CC4;
+	padding-right:100px;
+}
+.sr{
+	background:#C1C1C1
+}
